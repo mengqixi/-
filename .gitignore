@@ -1,0 +1,6 @@
+.godot/
+.tools/
+交付/
+verification/
+builds/
+*.tmp

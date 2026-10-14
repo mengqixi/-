@@ -1,0 +1,192 @@
+{
+  "checks": [
+    {
+      "check": "starts at menu",
+      "passed": true
+    },
+    {
+      "check": "jump binding 32",
+      "passed": true
+    },
+    {
+      "check": "jump binding 87",
+      "passed": true
+    },
+    {
+      "check": "jump binding 4194320",
+      "passed": true
+    },
+    {
+      "check": "physical jump key 32 works",
+      "passed": true
+    },
+    {
+      "check": "physical jump key 87 works",
+      "passed": true
+    },
+    {
+      "check": "physical jump key 4194320 works",
+      "passed": true
+    },
+    {
+      "check": "physical move key 65 works",
+      "passed": true
+    },
+    {
+      "check": "physical move key 4194319 works",
+      "passed": true
+    },
+    {
+      "check": "physical move key 68 works",
+      "passed": true
+    },
+    {
+      "check": "physical move key 4194321 works",
+      "passed": true
+    },
+    {
+      "check": "short and held jumps differ",
+      "passed": true
+    },
+    {
+      "check": "second jump works in midair",
+      "passed": true
+    },
+    {
+      "check": "third midair jump is blocked",
+      "passed": true
+    },
+    {
+      "check": "landing resets double jump",
+      "passed": true
+    },
+    {
+      "check": "player can stand on upper brick platform",
+      "passed": true
+    },
+    {
+      "check": "player can walk along upper platform",
+      "passed": true
+    },
+    {
+      "check": "enemy patrols on elevated platform",
+      "passed": true
+    },
+    {
+      "check": "keyboard movement advances player",
+      "passed": true
+    },
+    {
+      "check": "side contact causes death",
+      "passed": true
+    },
+    {
+      "check": "contact from below causes death",
+      "passed": true
+    },
+    {
+      "check": "descending stomp defeats enemy and bounces",
+      "passed": true
+    },
+    {
+      "check": "pit death at 585",
+      "passed": true
+    },
+    {
+      "check": "pit death at 1431",
+      "passed": true
+    },
+    {
+      "check": "head bump releases one hidden coin",
+      "passed": true
+    },
+    {
+      "check": "used lucky block cannot reward twice",
+      "passed": true
+    },
+    {
+      "check": "head bump spawns moving mushroom",
+      "passed": true
+    },
+    {
+      "check": "mushroom pickup enlarges character and collision",
+      "passed": true
+    },
+    {
+      "check": "big player shrinks with temporary protection",
+      "passed": true
+    },
+    {
+      "check": "small player dies after protection expires",
+      "passed": true
+    },
+    {
+      "check": "growth waits when headroom is blocked",
+      "passed": true
+    },
+    {
+      "check": "pending growth applies in open space",
+      "passed": true
+    },
+    {
+      "check": "all 12 coins can be collected",
+      "passed": true
+    },
+    {
+      "check": "collected coins cannot count twice",
+      "passed": true
+    },
+    {
+      "check": "all-coin clear result",
+      "passed": true
+    },
+    {
+      "check": "zero-coin clear allowed",
+      "passed": true
+    },
+    {
+      "check": "death takes priority over simultaneous goal",
+      "passed": true
+    },
+    {
+      "check": "complete retry reset 1",
+      "passed": true
+    },
+    {
+      "check": "complete retry reset 2",
+      "passed": true
+    },
+    {
+      "check": "complete retry reset 3",
+      "passed": true
+    },
+    {
+      "check": "complete retry reset 4",
+      "passed": true
+    },
+    {
+      "check": "complete retry reset 5",
+      "passed": true
+    },
+    {
+      "check": "pause freezes world and timer",
+      "passed": true
+    },
+    {
+      "check": "resume restores movement",
+      "passed": true
+    },
+    {
+      "check": "losing focus pauses gameplay",
+      "passed": true
+    },
+    {
+      "check": "full level traversable from spawn using inputs",
+      "passed": true
+    }
+  ],
+  "failures": 0,
+  "full_jump_height": 52.5747222900391,
+  "route_frames": 1117,
+  "short_jump_height": 21.0747222900391
+}
